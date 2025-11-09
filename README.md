@@ -109,11 +109,11 @@ And that's it, it's pretty clean yet readable, right?
 
 Flag            Description
 
--h, --help      Show quick menu available commands
--v, --version   Show cad version
--ln	            Show line numbers
--fn	            Show filename at the top
--show-all       Show both line numbers and filename
+-h, --help      Show quick menu available commands  
+-v, --version   Show cad version  
+-ln	            Show line numbers  
+-fn	            Show filename at the top  
+-show-all       Show both line numbers and filename  
 
 ## What's next?
 
@@ -124,5 +124,5 @@ A tiny tool that reminds you why you started coding in the first place:
 
 ## License
 
-MIT — use it, hack it, break it, fix it.
+MIT — use it, hack it, break it, fix it.  
 Just don’t forget where it came from:)
