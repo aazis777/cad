@@ -18,7 +18,7 @@
  *   gcc -O2 -Wall -Wextra -std=c99 -o cad cad.c
  *
  * Author:
- *   aazis7 (https://github.com/aazis777)
+ *   aazis777 (https://github.com/aazis777)
  */
 
 #include "cad.h"
